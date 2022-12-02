@@ -65,3 +65,4 @@ class BirdsController < ApplicationController
   end
 
 end
+Footer
